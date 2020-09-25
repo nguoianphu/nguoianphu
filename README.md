@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently an Integration engineer in Car Multimedia project at Robert Bosch Engineering and Business Solutions Vietnam Co., Ltd
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on DevOps or Integration topics
-- 📫 Please get me at http://vn.linkedin.com/in/vohungtuan
+- 📫 Please get me at https://vn.linkedin.com/in/vohungtuan
 <!--
 - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
